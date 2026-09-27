@@ -9,4 +9,4 @@ Chris Mok - L-Systems, Kuwahara Filter, Sky Dome, and Scene Creation
 Briana Fedkiw - Realtime Fog, HDR Rendering, Screen Space Bloom, Color Grading
 Muhamed - Attempted Depth of Field, Parallax Mapping
 
-[Project Demo Video](https://youtu.be/zErGJMEQQ9I?t=1150)
+[Project Demo Video](https://drive.google.com/file/d/1lTyrRkniFm9koPCx3jPgHt7teAlgG7f9/view?usp=sharing)
